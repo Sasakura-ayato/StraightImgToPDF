@@ -1,0 +1,3 @@
+cv2
+img2pdf
+PySimpleGUI
